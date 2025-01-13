@@ -1,6 +1,6 @@
 # GPS: A Generative Point Sampling Apporach for PINNs (Journal)
 
-# TODO: Description of this repo
+This repository contains the implementation code of the work: "GPS: A Generative Point Sampling Apporach for PINNs (Journal)"
 
 # Physics-Informed Neural Networks (PINNs)
 
@@ -16,17 +16,3 @@ where:
 During training, the Neural Network tries to minimize the loss function error, using standard optimization algorithms, such as Stochastic Gradient Descent (SGD) or ADAM, and doing so, it learns the solution of the defined PDE, e.g. Burgers Equation, as presented in the Figure below:
 
 ![PINN Architecture](https://github.com/kochlisGit/generative-point-sampling/blob/main/figs/pinn_arch.png)
-
-# TODO: Residual-based Adaptive Refinement (RAR)
-
-# TODO: GENESIS
-
-# TODO: REPS
-
-# TODO: GENERAL
-
-# TODO: Results
-
-# Requirements
-
-# How to Run
